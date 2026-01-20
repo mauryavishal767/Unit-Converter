@@ -3,6 +3,8 @@
 This project is a **Unit Converter API** built as part of the  
 [roadmap.sh Unit Converter project](https://roadmap.sh/projects/unit-converter).
 
+[roadmap.sh Solution Link](https://roadmap.sh/projects/unit-converter/solutions?u=657afb825145316d25021c0a).
+
 The purpose of this project is **learning Spring Boot**, not building a production-grade application. The implementation intentionally prioritizes simplicity over flexibility.
 
 ## API Endpoint
